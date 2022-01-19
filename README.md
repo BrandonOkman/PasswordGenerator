@@ -10,8 +10,8 @@ I was taked with creating a random password generator that met a specific amount
 * https://github.com/BrandonOkman/PasswordGenerator.git
 ## Screenshots and Video
 <img width="400" alt="Screen Shot 2021-12-18 at 6 06 04 PM" src="images/pic1.png">
-<img width="250" alt="Screen Shot 2021-12-18 at 6 11 35 PM" src="images/pic2.png">
-<img width="250" alt="Screen Shot 2021-12-18 at 6 11 35 PM" src="images/pic3.png">
+<img width="400" alt="Screen Shot 2021-12-18 at 6 11 35 PM" src="images/pic2.png">
+<img width="400" alt="Screen Shot 2021-12-18 at 6 11 35 PM" src="images/pic3.png">
 
 ## Web Developer's Contact
 <img width="150" alt="Screen Shot 2021-12-18 at 8 29 20 PM" src="https://user-images.githubusercontent.com/87589924/146662823-29aeef3c-9f95-4c14-9b4f-1c58aeeebb40.png">
