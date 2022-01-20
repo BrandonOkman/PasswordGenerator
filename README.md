@@ -6,7 +6,7 @@
 * Screenshot & Video
 * Web Developer's Contact
 ## Job Task
-I was taked with creating a random password generator that met a specific amount of set characters. 
+I was tasked with creating a random password generator with 8-128 characters consisting of numbers 0-9 and letters A-Z both lower case and uppercase letters
 * https://github.com/BrandonOkman/PasswordGenerator.git
 ## Screenshots and Video
 <img width="400" alt="Screen Shot 2021-12-18 at 6 06 04 PM" src="images/pic1.png">
